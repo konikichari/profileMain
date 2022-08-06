@@ -27,8 +27,8 @@ export default function NavComponent() {
             </NavDropdown> */}
           </Nav>
           <Nav>
-            <Nav.Link href="#deets">Sign In</Nav.Link>
-            <Nav.Link eventKey={2} href="#memes">
+            <Nav.Link href="#SignIn">SignIn</Nav.Link>
+            <Nav.Link eventKey={2} href="#SignUp">
               SignUp
             </Nav.Link>
           </Nav>

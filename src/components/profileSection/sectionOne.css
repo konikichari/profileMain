@@ -1,0 +1,16 @@
+/* img {
+    width: 100%;
+    height: auto;
+    opacity: 0.1;
+    position: fixed;
+    top: 0;
+    left: 0;
+  } */
+
+  .mainBanner {
+    background-color: #89d8d3;
+    background-image: linear-gradient(315deg, #89d8d3 0%, #03c8a7 74%);
+    border-radius: 15px;
+    height: auto;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  }
